@@ -18,8 +18,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+  - They show you how the branches relate to each other, as well as the history of their files. It protects you from making mistakes and bugs on a branch that you may want to keep as functional, rather than experimental. The concept of tracing back through the prior versions of the branch helped me understand it visually through the diagram.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  - The two branches merge together and become one with the same parents, allowing for traceback. 
+  
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
