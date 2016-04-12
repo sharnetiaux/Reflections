@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+- It took hundreds of lines of code from two different files and compared them to each other, pointing out which
+lines differed between them. This made it easy to spot the typo in the problem, rather than going through each line of
+the code manually.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- Having access to these previous files make comparing old vs new files much easier. It also keeps these older versions of 
+files more organized and easy to access through version control rather than saving these files under different names manually.
+When working in a group setting, I could see how having version control would be very usefull, especially when other team members
+are trying to access older versions of files. It's all right there for everyone to access, rather than having to send a zip to someone else
+manually. 
