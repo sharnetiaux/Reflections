@@ -11,3 +11,9 @@ files more organized and easy to access through version control rather than savi
 When working in a group setting, I could see how having version control would be very usefull, especially when other team members
 are trying to access older versions of files. It's all right there for everyone to access, rather than having to send a zip to someone else
 manually. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  - By only adding files to the staging area that are modified logically, you can seperately create commits for those files, seperate from files that have not logically been changed.
+
+
