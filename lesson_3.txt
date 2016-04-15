@@ -19,5 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
   - the only way i would collaborate without these resources is by manually saving files and then sending those files to people, allowing them to download and diff. This would suck in terms of efficiency and organization, but it would allow someone to use a file GUI if they didnt understand how to use Git.
 
+When woudl you want to make changes in a separate branch rather than directly on the master? what benefits does each approach have?
+
+ - Making changes separate from master allows you to preserve your working code rather than writing over it with a possibly broken code. However, it may lead to a loss of organization if not careful.
   
 
